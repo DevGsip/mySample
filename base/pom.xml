@@ -11,8 +11,7 @@
 
     <artifactId>base</artifactId>
 
-
-    <dependencies>
+    <!--<dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
@@ -48,7 +47,7 @@
             <artifactId>commons-lang3</artifactId>
         </dependency>
 
-        <!-- fastjson -->
+        &lt;!&ndash; fastjson &ndash;&gt;
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
@@ -72,6 +71,5 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
-
+    </build>-->
 </project>
