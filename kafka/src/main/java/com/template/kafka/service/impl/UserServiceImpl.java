@@ -1,9 +1,8 @@
-package com.template.sample.service.impl;
+package com.template.kafka.service.impl;
 
-
-import com.template.sample.mapper.UserMapper;
-import com.template.sample.model.User;
-import com.template.sample.service.UserService;
+import com.template.kafka.mapper.UserMapper;
+import com.template.kafka.model.User;
+import com.template.kafka.service.UserService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
