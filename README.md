@@ -9,3 +9,6 @@
 
 ## kafka
 集成Kafka，未自测！！！！！！！
+
+## dubbo
+集成dubbo，需要提前安装好zookeeper。
