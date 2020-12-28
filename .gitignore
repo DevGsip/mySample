@@ -33,3 +33,6 @@ build/
 ### VS Code ###
 .vscode/
 kafka/
+dubbo/mvnw
+dubbo/mvnw.cmd
+dubbo/dubbo-api/.mvn/wrapper/maven-wrapper.jar
