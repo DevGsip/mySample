@@ -18,6 +18,7 @@
         <module>base</module>
         <module>redis</module>
         <module>kafka</module>
+        <module>dubbo</module>
     </modules>
 
     <dependencies>
