@@ -1,6 +1,9 @@
 # mySample
 主要为springboot项目，其中包含各组件的集成和基本的项目框架，用于理解组件集成和基本的使用。使用过程中如有问题提交issue跟踪。
 
+[![Build Status](https://travis-ci.org/yangsenlin/snsdemo.svg?branch=master)](https://travis-ci.org/yangsenlin/snsdemo)
+
+
 ## base
 为基础项目，集成mybatis和日志，其余组件项目均基于base扩展。
 
